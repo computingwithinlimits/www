@@ -1,0 +1,15 @@
+Article 1. A Strategy For Limits-Aware Computing. Jay Chen
+Article 2. Refactoring Society: Systems Complexity in an Age of Limits. Barath Raghavan and Daniel Pargman
+Article 3. A Circular Commons for Digital Devices. David Franquesa, Leandro Navarro, and Xavier Bustamante
+Article 4. 3D Printing: A Future Collapse-Compliant Means of Production. Samantha McDonald
+Article 5. Whose Future Is It Anyway? Limits within Policy Modeling. Somya Joshi, Teresa Cerratto-Pargman, Andreas Gazis, and Daniel Pargman
+Article 6. Computing beyond Gender-Imposed Limits. Syed Ishtiaque Ahmed, Nova Ahmed, Faheem Hussain, and Neha Kumar
+Article 7. A Report from an Online Course on Global Disruption and Information Technology. Bill Tomlinson, Donald Patterson, and Bonnie Nardi
+Article 8. Empowering Limitations. Douglas Schuler
+Article 9. Taming Limits with Approximate Networking. Junaid Qadir, Arjuna Sathiaseelan, Liang Wang, and Jon Crowcroft
+Article 10. The Limits of Our Imagination: Design Fiction as a Strategy for Engaging with Dystopian Futures. Joshua Tanenbaum, Marcel Pufal, and Karen Tanenbaum
+Article 11. Macroscopically Sustainable Networking: On Internet Quines. Barath Raghavan and Shaddi Hasan
+Article 12. Limits to the Sharing Economy.  Daniel Pargman, Elina Eriksson, and Adrian Friday
+Article 13. Navigating Connectivity in Reduced Infrastructure Environments.  Paul Schmitt and Elizabeth Belding
+Article 14.	Are there limits to growth in data traffic?: On time use, data generation and speed. Mike Hazas, Janine Morley, Oliver Bates, and Adrian Friday
+Article 15. Situating Shelter Design and Provision in ICT Discourse for Scarce-resource Contexts. Samar Sabie, Maha Salman, and Steve Easterbrook
