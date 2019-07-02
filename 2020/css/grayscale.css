@@ -156,7 +156,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/windmills.jpg) no-repeat bottom center scroll;
+    background: url(../img/solar-panel.jpg) no-repeat bottom center scroll;
     background-color: #555;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -232,7 +232,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -249,7 +249,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -380,7 +380,7 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
-.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>td,
 .table-striped>tbody>tr:nth-child(odd)>th {
    background-color: #111111;
 }
