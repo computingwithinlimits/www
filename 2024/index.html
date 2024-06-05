@@ -398,8 +398,10 @@ href="http://www.acm.org/publications/article-templates/proceedings-template.htm
 double-column format</a>, using the most recent template, but without ACM
 copyright information.</li>
                 <li>
-                You achieve this by using <pre>sample-sigconf.tex</pre>
-as a base for your paper and moify the header as follows:
+                You achieve this by using
+                <pre>samples/sample-sigconf.tex</pre>
+                from the downloaded archive as a base for your paper, and
+modify the header as follows:
                   <pre>
 %% Rights management information.  This information is sent to you
 %% when you complete the rights form.  These commands have SAMPLE
@@ -414,8 +416,10 @@ as a base for your paper and moify the header as follows:
 %% These commands are for a PROCEEDINGS abstract or paper.
 \acmConference[LIMITS '24]{Tenth Workshop on Computing within Limits}{June
 18--19, 2024}{Online}
-\acmISBN{}
                   </pre>
+                You can further remove the CCS concepts from your
+submission by commenting out the <code>CCSXML</code> and
+<code>\ccsdesc</code> lines.
                 </li>
                 <li>The body of the paper should be a minimum of 5 pages
 and a maximum of 10 pages, with an unlimited number of pages allowed for
