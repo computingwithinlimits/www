@@ -393,9 +393,33 @@ world or ways of being in the world?
               <p>Register and submit papers at <a href="https://limits2024.hotcrp.com/">this site</a>.  (If you have any issues with the submission site, please email <a href="mailto:kheimerl@cs.washington.edu.edu">kheimerl@cs.washington.edu</a>.)<br></p>
               <p>Papers should adhere to the following guidelines:
               <ul>
-                <li>Papers should be in <a href="http://www.acm.org/publications/article-templates/proceedings-template.html">ACM double-column format</a>, using the most recent template, but without ACM copyright information.
-                <li>The main body text should use 9pt font.
-                <li>The body of the paper should be a minimum of 5 pages and a maximum of 10 pages, with an unlimited number of pages allowed for references.
+                <li>Papers should be in <a
+href="http://www.acm.org/publications/article-templates/proceedings-template.html">ACM
+double-column format</a>, using the most recent template, but without ACM
+copyright information.</li>
+                <li>
+                You achieve this by using <code>sample-sigconf.tex</code>
+as a base for your paper and moify the header as follows:
+                  <code>
+%% Rights management information.  This information is sent to you
+%% when you complete the rights form.  These commands have SAMPLE
+%% values in them; it is your responsibility as an author to replace
+%% the commands and values with those provided to you when you
+%% complete the rights form.
+\setcopyright{none}
+\settopmatter{printacmref=false}
+\acmDOI{}
+\acmISBN{}
+
+%% These commands are for a PROCEEDINGS abstract or paper.
+\acmConference[LIMITS '24]{Tenth Workshop on Computing within Limits}{June
+18--19, 2024}{Online}
+\acmISBN{}
+                  </code>
+                </li>
+                <li>The body of the paper should be a minimum of 5 pages
+and a maximum of 10 pages, with an unlimited number of pages allowed for
+references.</li>
               </ul>
 
               <p>Reviewing will be non-blind; authors should include their names and contact information and reviews will include reviewer names.</p>
