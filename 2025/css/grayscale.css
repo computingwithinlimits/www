@@ -156,8 +156,10 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
+    overflow: hidden;
+    position: relative;
 /*    background: url(../img/jtm_limits_crop_dark.jpg) no-repeat bottom center scroll; */
-    background-color: #555;
+    background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -171,7 +173,6 @@ a:focus {
     top: 0;
     width: 100%;
     height: auto;
-    background-color: #555;
     background-size: cover;
 }
 
