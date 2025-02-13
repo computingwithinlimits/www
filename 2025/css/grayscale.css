@@ -156,6 +156,19 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
+    background-color: #555;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.intro:before {
+    width: 100%;
+    height: auto;
+    padding: 100px 0;
+    text-align: center;
+    opacity: 0.6;
     background: url(../img/jtm_limits_crop_dark.jpg) no-repeat bottom center scroll;
     background-color: #555;
     -webkit-background-size: cover;
